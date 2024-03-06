@@ -10,8 +10,8 @@ This repository is about the lectures I have attended at C-DAC which include Not
 
 * **29 solved assignments with date written in it.**
 
-* _>_ You can match the date of (class lecture) with (assignment solved) date so you can get which assigment is solved by learning which lecture... just match the dates..and you will get..
+* You can match the date of (class lecture) with (assignment solved) date so you can get which assigment is solved by learning which lecture... just match the dates..and you will get..
 
-* _>_ This ***jupyter lab*** link also include the data of csv(comma separated value), tsv(tab separated value), png(portable network graphics), xlsx(Excel sheet), etc file based on that lecture and assignments are solved..
+* This ***jupyter lab*** link also include the data of csv(comma separated value), tsv(tab separated value), png(portable network graphics), xlsx(Excel sheet), etc file based on that lecture and assignments are solved..
 
-* _>_ Thank you have a good day...
+* Thank you have a good day...
